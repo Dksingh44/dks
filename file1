@@ -1,1 +1,10 @@
-import java .util.scanner
+import java .util.scanner;
+import java .util.arrays;
+ 
+public class hotel{
+public static void main (string args[]){
+ scanner sc =new scanner sysytem.in;
+ string a =sc.nextLine;
+
+     }
+}
